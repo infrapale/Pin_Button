@@ -1,5 +1,5 @@
 #include "Arduino.h"
-#include "AVR_Watchdog.h"
+//#include "AVR_Watchdog.h"
 #include <EEPROM.h>
 #include <TaHa.h> 
 #include "BtnPinOnOff.h"
