@@ -24,7 +24,7 @@ void BtnPinOnOff::Init(byte pin_nbr,char val){
 void BtnPinOnOff::Scan(void){
 
 	// run every 10ms
-	Serial.print(state);
+	//Serial.print(state);
 	switch(state){
 		case 0:   // idle state
 			if (digitalRead(pin) == LOW ) 
