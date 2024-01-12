@@ -2,7 +2,7 @@
 #define __BTNPINONOFF_H__
 #include "Arduino.h"
 
-#define BTN_ON_CNT   	20 
+#define BTN_ON_CNT   	10 
 #define BTN_OFF_CNT 	50 
 #define BTN_RELEASE_CNT 10 
 
